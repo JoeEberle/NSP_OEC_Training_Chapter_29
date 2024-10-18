@@ -1,6 +1,9 @@
 ![Image image_filename](solution_sign.png)
-    # Nsp Oec Training Chapter 29 
-    ## National Ski Patrol - Outdoor Emergency Care chapter 29
+    
+# Nsp Oec Training Chapter 29 
+
+## National Ski Patrol - Outdoor Emergency Care chapter 29
+
     ![Image image_filename](code.png)
 Welcome to the solution **Nsp Oec Training Chapter 29** - an example for your projects
 
@@ -25,9 +28,9 @@ To get started with the **Nsp Oec Training Chapter 29** solution repository, fol
 - Saves You Time 
 
 
-## Notebook Features
+## Code Features
 
-These Features are design to provide everything you need for **Knowledge Transfer** 
+These features are designed to provide everything you need for **Nsp Oec Training Chapter 29** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
@@ -37,6 +40,7 @@ These Features are design to provide everything you need for **Knowledge Transfe
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
+
     
 ## List of Figures
  ![additional_image](NSP_OEC_Training_Chapter_29.png)  <br>
