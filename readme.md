@@ -15,7 +15,7 @@ Chapter 29: Water-Related Emergencies
 1. Define drowning. 
 2. Explain water-related emergencies.
 3. Discuss spinal injuries in submersion incidents. 
-4. Explain swimmerâ€™s ear, including assessment and care. 
+4. Explain swimmer’s ear, including assessment and care. 
 5. Explain how to assess a patient with a water-related emergency.
 6. Describe how to manage a patient who has suffered a water-related emergency.
 7. List the multiple ways in which a water-based emergency may be prevented. 
@@ -31,12 +31,12 @@ Water-related emergencies include any situations where individuals are at risk o
 
 ## 29.3 Discuss spinal injuries in submersion incidents. 
 
-Spinal injuries in submersion incidents typically occur when an individualâ€™s head or neck collides with a hard surface, such as the bottom of a pool, rocks, or a diving board, often due to **diving accidents, falls, or high-impact water sports**. These injuries can result in **fractures, dislocations, or spinal cord damage**, which may lead to paralysis or loss of function, and are especially dangerous because they can cause **immobilization** in the water, increasing the risk of drowning. During rescue, it's crucial to **stabilize the head and neck** and minimize movement to prevent further spinal damage, using techniques like **in-water spinal stabilization** to safely extract the person without worsening the injury.
+Spinal injuries in submersion incidents typically occur when an individual’s head or neck collides with a hard surface, such as the bottom of a pool, rocks, or a diving board, often due to **diving accidents, falls, or high-impact water sports**. These injuries can result in **fractures, dislocations, or spinal cord damage**, which may lead to paralysis or loss of function, and are especially dangerous because they can cause **immobilization** in the water, increasing the risk of drowning. During rescue, it's crucial to **stabilize the head and neck** and minimize movement to prevent further spinal damage, using techniques like **in-water spinal stabilization** to safely extract the person without worsening the injury.
 
-## 29.4 Explain swimmerâ€™s ear, including assessment and care. 
+## 29.4 Explain swimmer’s ear, including assessment and care. 
 
-### **Swimmerâ€™s Ear (Otitis Externa)**:
-Swimmerâ€™s ear is an **infection of the outer ear canal**, caused by water that remains trapped in the ear after swimming, creating a moist environment that promotes **bacterial or fungal growth**. It often occurs due to prolonged exposure to water, frequent swimming, or inserting objects (like cotton swabs) into the ear that can damage the ear canal.
+### **Swimmer’s Ear (Otitis Externa)**:
+Swimmer’s ear is an **infection of the outer ear canal**, caused by water that remains trapped in the ear after swimming, creating a moist environment that promotes **bacterial or fungal growth**. It often occurs due to prolonged exposure to water, frequent swimming, or inserting objects (like cotton swabs) into the ear that can damage the ear canal.
 
 ### **Assessment**:
 - **Symptoms**: Look for **itching in the ear canal**, redness, pain (especially when the outer ear is pulled or pressed), and **discharge** from the ear that may be clear, yellow, or pus-like.
@@ -54,7 +54,7 @@ Swimmerâ€™s ear is an **infection of the outer ear canal**, caused by water that
 ## 29.5 Explain how to assess a patient with a water-related emergency.
 
 
-Assessing a patient involved in a water-related emergency involves a systematic approach to quickly determine their condition and address any immediate life-threatening issues. Hereâ€™s how to conduct the assessment:
+Assessing a patient involved in a water-related emergency involves a systematic approach to quickly determine their condition and address any immediate life-threatening issues. Here’s how to conduct the assessment:
 
 ### **1. Ensure Scene Safety**
    - **Check the Environment**: Make sure the area is safe for you and the patient, and remove the patient from the water if it's safe to do so. Use **rescue equipment** if needed to avoid risking your own safety.
@@ -97,7 +97,7 @@ Quick and thorough assessment can significantly improve outcomes in water-relate
 
 ## 29.6 Describe how to manage a patient who has suffered a water-related emergency.
 
-Managing a patient who has suffered a water-related emergency involves immediate actions to address potential life-threatening conditions, such as drowning, hypothermia, and spinal injuries. Hereâ€™s a step-by-step approach:
+Managing a patient who has suffered a water-related emergency involves immediate actions to address potential life-threatening conditions, such as drowning, hypothermia, and spinal injuries. Here’s a step-by-step approach:
 
 ### **1. Ensure Scene Safety**
    - **Check the Environment**: Make sure the area is safe for you to approach and assist the patient. Use **rescue equipment** if needed and ensure there is no further risk (e.g., strong currents, dangerous marine life).
@@ -121,7 +121,7 @@ Managing a patient who has suffered a water-related emergency involves immediate
    - **Prevent Further Heat Loss**: Ensure the patient is in a **warm, dry environment**, away from wind or cold air.
 
 ### **6. Provide Ongoing Monitoring and Support**
-   - **Monitor Vital Signs**: Continuously check **breathing, pulse, and level of consciousness**. Be prepared to resume CPR if the patientâ€™s condition deteriorates.
+   - **Monitor Vital Signs**: Continuously check **breathing, pulse, and level of consciousness**. Be prepared to resume CPR if the patient’s condition deteriorates.
    - **Assess for Secondary Complications**: Watch for symptoms of **secondary drowning**, where water in the lungs causes respiratory distress even after the patient appears to recover. Symptoms may include **coughing, difficulty breathing, or bluish skin**.
 
 ### **7. Prepare for Transport and Seek Medical Attention**
@@ -200,24 +200,4 @@ By implementing these safety measures, water-based emergencies can be significan
     
 ![Solution](code.png)
 
-    
-## Getting Started
-
-The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
-
-To get started with the **Nsp Oec Training Chapter 29** solution repository, follow these steps:
-1. Clone the repository to your local machine.
-2. Install the required dependencies listed at the top of the notebook.
-3. Explore the example code provided in the repository and experiment.
-4. Run the notebook and make it your own - **EASY !**
-    
-## List of Figures
- ![additional_image](NSP_OEC_Training_Chapter_29.png)  <br>
-    
-
-## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
     
